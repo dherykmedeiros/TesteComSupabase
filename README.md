@@ -59,5 +59,5 @@ A interface do usuário é estilizada com Tailwind CSS para manter o design simp
 - Sistema de notificações em tempo real para clientes quando novos relatórios forem aprovados.
 
 ## Autor
-Desenvolvido por [Seu Nome].
+Desenvolvido por [Dheryk Medeiros].
 
